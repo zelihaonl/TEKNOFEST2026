@@ -1,0 +1,25 @@
+# --- Deep Learning & Computer Vision ---
+ultralytics>=8.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+
+# --- Model Optimization & Edge Deployment ---
+onnx>=1.14.0
+onnxruntime>=1.15.0
+openvino>=2023.2.0
+
+# --- Data Science & Metrics ---
+numpy>=1.23.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# --- UAV / Telemetry & Hardware Communication ---
+pymavlink>=2.4.30
+pyserial>=3.5
+
+# --- Dataset Management ---
+roboflow>=1.1.0
+
+# --- GUI / Ground Control Station (GCS) ---
+PyQt5>=5.15.9

@@ -1,0 +1,45 @@
+# Python & Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# PyCharm / IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Datasets and Large Media Files
+Altay Kare Tanimlama.v3i.yolov11/
+IHA_Veri_Seti/
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.zip
+*.tar.gz
+
+# Logs & temporary files
+kernel.errors.txt
+*.log
+
+# Application / Confidential Reports
+SAYZEK_ATP_BASVURU_RAPORU.md
+
+# Training Runs, Metrics & Model Weights
+runs/
+*.pt
+*.onnx
+*.bin
+*.xml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
