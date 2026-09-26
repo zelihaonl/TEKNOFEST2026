@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![YOLO11](https://img.shields.io/badge/YOLO-v11-00FFFF.svg)](https://github.com/ultralytics/ultralytics)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -61,16 +60,3 @@ python canli_tahmin.py
 ```bash
 python hedef_koordinat_hesaplayici.py
 ```
-
----
-
-## 👥 Takım
-
-**SGM ASENA Takımı - Konya Teknik Üniversitesi**  
-Yapay Zekâ, Aviyonik ve Otonom Sistemler Çalışma Grubu
-
----
-
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) kapsamında lisanslanmıştır.
